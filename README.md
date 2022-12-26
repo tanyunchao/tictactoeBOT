@@ -1,5 +1,5 @@
 # tictactoeBOT
-tictactoe bot project
+tictactoe bot project inspired from https://robertheaton.com/
 
-this is a very basic bot project follow instruciton from online
-too many files uploaded as still unfamiliar with git
+Fun little project that uses python to render a simple board in the terminal
+The actual Bot itself uses the minimax algorithm to determine the best moves for the bot.
